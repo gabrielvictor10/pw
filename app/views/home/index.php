@@ -28,7 +28,7 @@
                 <p class="text-white-75 font-weight-light mb-5">Obrigado por acessar minha página!
                     Seja bem vindo.
                 </p>
-                <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Sebre mim</a>
+                <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Sobre mim</a>
             </div>
         </div>
     </div>
