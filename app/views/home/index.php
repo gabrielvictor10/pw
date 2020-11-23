@@ -170,7 +170,7 @@
             <div class="col-lg-4 mr-auto text-center">
                 <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
                 <!-- Make sure to change the email address in BOTH the anchor text and the link target below!-->
-                <a class="d-block" href="mailto:agendarreuniao@gmail.com">agendarreuniao@gmail.com</a>
+                <a class="d-block" href="mailto:agendar.reuniao@gmail.com">agendar.reuniao@gmail.com</a>
             </div>
         </div>
     </div>
