@@ -149,7 +149,7 @@
 <section class="page-section bg-dark text-white">
     <div class="container text-center">
         <h2 class="mb-4">Conheça meu perfil no GitHub!</h2>
-        <a class="btn btn-light btn-xl" href="https://github.com/gabrielvictor10">Acesse já!</a>
+        <a class="btn btn-light btn-xl" href="https://github.com/gabrielvictor10" target="_blank">Acesse já!</a>
     </div>
 </section>
 <!-- Contact-->
